@@ -1,0 +1,20 @@
+FATAL:  lock file "postmaster.pid" already exists
+HINT:  Is another postmaster (PID 1985) running in data directory "/Users/hoangnd/Code/FlaskTutorial/postgresDB"?
+LOG:  database system was shut down at 2017-03-24 14:31:54 ICT
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2017-03-24 14:51:59 ICT
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
