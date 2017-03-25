@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {%for person in myPersons%}
+    <li>{{myPersons.firstName}} {{person.lastName}} - {{person.email}}</li>
+    {% endfor %}
+</body>
+</html>
